@@ -3,3 +3,5 @@ lime
 salt
 tomamto
 cilantra
+garlic
+jalapeno
